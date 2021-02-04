@@ -1,7 +1,7 @@
 ﻿/*******************************
  * Übungsbeispiel: Taschenrechner
  *  
- * Autor: Michael Bucek
+ * Autor: karlof002
  * ******************************/
 
 using System;
